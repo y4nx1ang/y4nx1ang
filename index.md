@@ -1,20 +1,22 @@
 ---
 layout: default
 ---
+
+<!-- **[page 1](./pages/another-page.html)** \| [page 2](./pages/pages2.html) -->
+
 ## Short Bio
 
 I am now a first-year Ph.D. student in the department of Information Engineering at the Chinese University of Hong Kong. I am fortunated to be advised by [Prof. Sze Yiu Chau](https://szeyiuchau.github.io/).
 
 
-Before coming to CUHK, I obtained my M.E. degree from Fudan University under supervisor [Prof. Zhe Zhou](https://www.y-droid.com/zhe/). I obtained my B.S. degree in Computer Science and Technology from Ocean University of China in June 2019.
+Before coming to CUHK, I obtained my M.E. degree from Fudan University under supervisor [Prof. Zhe Zhou](https://www.y-droid.com/zhe/) and got my B.S. degree in Computer Science and Technology from Ocean University of China in June 2019.
 
 My research interests include system security and Side-Channel attacks on computer hardwares. I am a new-comer to both fields, and feel free to contact me via email.  : )
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 ---------
 <br>
 
-<!-- **[page 1](./pages/another-page.html)** \| [page 2](./pages/pages2.html) -->
+
 
 <!-- There should be whitespace between paragraphs.
 
